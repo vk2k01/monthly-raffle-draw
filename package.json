@@ -17,7 +17,7 @@
     "xlsx": "^0.18.5"
   },
   "scripts": {
-    "homepage": "https://vk2k01.github.io/monthly-raffle-draw",
+    "homepage": "https://vk2k01.github.io/monthly-raffle-draw/",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
